@@ -64,6 +64,9 @@ weight: 2
 - [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
 - [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
 - [EOS Tutorials](https://eostutorials.com/) - A tutorial website created for all skill levels of EOS enthusiasts. 
+- [Get Started with EOS](https://www.myeoskit.com/#/guides/welcome) - The Definitive EOS Starter's Guide
+- [Crypto Kylin Testnet](https://www.cryptokylin.io/)/[Telegram](https://t.me/cryptokylin1en) - CryptoKylin Testnet is a developer-friendly testnet.
+- [MyEOSKit](https://www.myeoskit.com)/[Telegram](https://t.me/eosasia) - An all-in-one EOS toolkit. Voting, transaction scanner, account scanner, BP scanner, account creation, proxy management, buy/sell RAM, name auction, and more!
 - [Go to table of content](#contents)
 
 ## Community Forums
